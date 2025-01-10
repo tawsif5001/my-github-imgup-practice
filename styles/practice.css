@@ -1,0 +1,18 @@
+h3{
+    text-align: center;
+    color: aqua;
+    background-color: plum;
+    
+}
+
+.pic1{
+    background-color: aqua;
+    margin: 5px;
+}
+
+.pic2{
+    background-color: aquamarine;
+    margin: 0px 5px 0px;
+    align-items: first baseline;
+}
+
